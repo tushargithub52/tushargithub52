@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Tushar 👋</h1>
 <p align="center">
   <i>🚀 MERN Stack Developer | Passionate about building user-focused web apps</i><br />
-  <i>💡 Learning by building. Exploring JavaScript deeply & crafting real-world projects</i>
+  <i>💡 Learning by building. Exploring development deeply & crafting real-world projects</i>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech student @ ABES Engineering College  
-- 💼 Passionate about Web Development (Frontend-heavy with Full Stack touch)  
+- 🎓 Final year B.Tech student @ ABES Engineering College  
+- 💼 Passionate about Web Development and Generative AI  
 - 🛠️ Skilled in: **React.js, Node.js, Express, MongoDB, Tailwind CSS, Redux, SCSS**  
 - 📫 Let's connect: [Portfolio](https://portfoliotushar-seven.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/tushar-rai-715700268/)  
 
