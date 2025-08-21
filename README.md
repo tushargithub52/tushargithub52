@@ -60,7 +60,7 @@ Here are a few highlighted projects from my GitHub:
 
 ### 🤝 Let's Connect
 
-- 📫 Email: tusharrai2019@gmail.com  
+- 📫 Email: tusharraiku6020@gmail.com  
 - 🌐 Portfolio: [portfoliotushar-seven.vercel.app](https://portfoliotushar-seven.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tushar-rai-715700268/)  
 - 🧑‍💻 [GitHub](https://github.com/tushargithub52)
