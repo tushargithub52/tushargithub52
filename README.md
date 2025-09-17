@@ -25,7 +25,7 @@ Here are a few highlighted projects from my GitHub:
 #### 🧠 [VanillaOS](https://github.com/tushargithub52/VanillaOS)
 > A browser-based OS interface with draggable windows, live clock, theming, and system-like UI – all built in vanilla JS & SCSS.
 
-#### 📝 [Conversational AI Chat Platform](https://github.com/tushargithub52/Aivora)
+#### 📝 [Aivora](https://github.com/tushargithub52/Aivora)
 > A Full-stack conversational AI platform with secure JWT authentication, real-time chat using Socket.io, and
 persistent memory using Pinecone vector database.
 
