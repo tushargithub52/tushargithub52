@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tushar 👋</h1>
 <p align="center">
-  <i>🚀 MERN Stack Developer | Passionate about building user-focused web apps</i><br />
+  <i>🚀 Full Stack Developer | Passionate about building user-focused web apps</i><br />
   <i>💡 Learning by building. Exploring development deeply & crafting real-world projects</i>
 </p>
 
@@ -10,7 +10,7 @@
 
 - 🎓 Final year B.Tech student @ ABES Engineering College  
 - 💼 Passionate about Web Development and Generative AI  
-- 🛠️ Skilled in: **React.js, Node.js, Express, MongoDB, Tailwind CSS, Redux, SCSS**  
+- 🛠️ Skilled in: **React.js, Node.js, Express, MongoDB, Tailwind CSS, Redux, SCSS, MCP servers**  
 - 📫 Let's connect: [Portfolio](https://portfoliotushar-seven.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/tushar-rai-715700268/)  
 
 ---
@@ -25,11 +25,9 @@ Here are a few highlighted projects from my GitHub:
 #### 🧠 [VanillaOS](https://github.com/tushargithub52/VanillaOS)
 > A browser-based OS interface with draggable windows, live clock, theming, and system-like UI – all built in vanilla JS & SCSS.
 
-#### 📝 [Employee Management System](https://github.com/tushargithub52/employee-task-management)
-> React-based admin and employee panels with task assignment, localStorage data persistence, and status tracking UI.
-
-#### ☁️ [Google Drive Clone](https://github.com/tushargithub52/google-drive-clone)
-> File storage platform using MongoDB, Express, EJS, Node.js, and Cloudinary for uploads, view/download features.
+#### 📝 [Conversational AI Chat Platform](https://github.com/tushargithub52/Aivora)
+> A Full-stack conversational AI platform with secure JWT authentication, real-time chat using Socket.io, and
+persistent memory using Pinecone vector database.
 
 ---
 
